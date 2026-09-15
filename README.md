@@ -1,6 +1,3 @@
-# atividade-html-aula-4
-
-```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -12,15 +9,15 @@
 
     <h1>Meu site sobre carros</h1>
 
-    <p>Olá! Este é um site simples sobre carros que estou aprendendo a fazer em HTML.</p>
+    <p>Olá! Bem-vindo ao meu site sobre carros. Aqui vou falar um pouco sobre alguns carros que eu gosto.</p>
 
     <hr>
 
     <h2>Carros esportivos</h2>
 
     <p>
-        Os carros esportivos são conhecidos pela velocidade,
-        pelo design e pelo desempenho.
+        Os carros esportivos chamam bastante atenção pela velocidade,
+        pelo design e pela potência dos motores.
     </p>
 
     <h3>Ferrari</h3>
@@ -30,8 +27,8 @@
          width="400">
 
     <p>
-        A Ferrari é uma marca italiana muito conhecida por fabricar
-        carros esportivos rápidos e luxuosos.
+        A Ferrari é uma marca italiana famosa pelos seus carros esportivos
+        e luxuosos. Seus carros são conhecidos pela velocidade e pelo visual.
     </p>
 
     <h3>BMW</h3>
@@ -41,8 +38,8 @@
          width="400">
 
     <p>
-        A BMW é uma fabricante alemã conhecida por seus carros
-        confortáveis, tecnológicos e com bom desempenho.
+        A BMW é uma marca alemã que fabrica carros confortáveis,
+        modernos e com bastante desempenho.
     </p>
 
     <h3>Lamborghini</h3>
@@ -52,15 +49,15 @@
          width="400">
 
     <p>
-        A Lamborghini é famosa pelos seus carros esportivos,
-        com visual chamativo e motores muito potentes.
+        A Lamborghini é conhecida pelos seus carros esportivos
+        com um design bem chamativo e motores muito potentes.
     </p>
 
     <hr>
 
     <h2>Vídeo sobre carros</h2>
 
-    <p>Veja um vídeo relacionado a carros:</p>
+    <p>Confira um vídeo relacionado a carros:</p>
 
     <iframe width="560" height="315"
         src="https://www.youtube.com/embed/ScMzIvxBSi4"
@@ -79,13 +76,13 @@
         <li>Porsche</li>
     </ol>
 
-    <h2>Algumas características</h2>
+    <h2>Características dos carros</h2>
 
     <ul>
         <li>Alta velocidade</li>
         <li>Design bonito</li>
         <li>Motor potente</li>
-        <li>Tecnologia</li>
+        <li>Boa tecnologia</li>
     </ul>
 
     <hr>
@@ -93,13 +90,11 @@
     <h2>Conclusão</h2>
 
     <p>
-        Eu gosto de carros porque eles possuem diferentes modelos,
-        motores e tecnologias. Este site foi feito utilizando apenas
-        HTML, sem CSS.
+        Eu gosto de carros porque existem vários modelos diferentes,
+        cada um com seu próprio estilo, motor e tecnologia.
     </p>
 
     <p>Obrigado por visitar meu site!</p>
 
 </body>
 </html>
-```
